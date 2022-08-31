@@ -60,7 +60,7 @@ The final results showed an accuracy rate of 57% in predicting the different cla
 Good recall for “open” questions (93%), I worry about the 0% recall rate for type 1 questions and I think for type 2/3/4 further training is needed. <br>
 I will consider adding more features into the model.
 
-This is the post I :
+This is the post I : <br>
 https://medium.com/@orengutman10/stackoverflow-text-classification-with-bert-38af99c287cb
 
 ## 6 Acknowledgements:  <br>
